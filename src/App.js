@@ -7,7 +7,7 @@ function App() {
         <div className="App">
             <header className="App-header">
             <Hello 
-                nama="Nelson Antonio Celo" 
+                nama="Muhammad Fadly Ukhrowi Akhfir" 
                 pesan="Semoga hari ini lebih baik dari sebelumnya"/>
                 <Produk />
             </header>
