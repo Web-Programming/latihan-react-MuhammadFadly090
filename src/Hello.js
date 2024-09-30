@@ -11,7 +11,7 @@ function Hello(props) {
 }
 
 Hello.defaultProps = {
-    nama : "Nelson Antonio Celo",
+    nama : "Muhammad Fadly Ukhrowi Akhfir",
     pesan : "Semoga hari ini lebih baik dari sebelumnya"
 };
 
